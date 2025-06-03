@@ -1,0 +1,335 @@
+[
+  {
+    "id": 1,
+    "nome": "Coca Cola KS",
+    "descricao": "Refrigerante Coca-Cola KS.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 2,
+    "nome": "Coca Cola KS Zero",
+    "descricao": "Refrigerante Coca-Cola KS Zero.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 3,
+    "nome": "Coca Cola Lata Zero",
+    "descricao": "Refrigerante Coca-Cola Zero lata.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 4,
+    "nome": "Coca Cola lata",
+    "descricao": "Refrigerante Coca-Cola lata.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 5,
+    "nome": "Fanta Laranja Lata",
+    "descricao": "Refrigerante Fanta Laranja lata.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 6,
+    "nome": "Fanta Laranja Lata Zero",
+    "descricao": "Refrigerante Fanta Laranja Zero lata.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 7,
+    "nome": "Guarana Antartica Lata",
+    "descricao": "Refrigerante Guaraná Antarctica lata.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 8,
+    "nome": "Guarana Antartica Lata Zero",
+    "descricao": "Refrigerante Guaraná Antarctica Zero lata.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 9,
+    "nome": "Mineirinho",
+    "descricao": "Refrigerante Mineirinho.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 10,
+    "nome": "Schweppes citrus",
+    "descricao": "Refrigerante Schweppes Citrus.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 11,
+    "nome": "Sprite",
+    "descricao": "Refrigerante Sprite.",
+    "tipo": "Refrigerante",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+
+  {
+    "id": 12,
+    "nome": "Suco Del Vale Manga",
+    "descricao": "Suco Del Valle sabor manga.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 13,
+    "nome": "Suco Del Vale Maracuja",
+    "descricao": "Suco Del Valle sabor maracujá.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 14,
+    "nome": "Suco Del Vale Pessego",
+    "descricao": "Suco Del Valle sabor pêssego.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 15,
+    "nome": "Suco Del Vale Uva",
+    "descricao": "Suco Del Valle sabor uva.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 16,
+    "nome": "Sulco da polpa de Abacaxi",
+    "descricao": "Suco natural de abacaxi.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 17,
+    "nome": "Sulco da polpa de Acerola",
+    "descricao": "Suco natural de acerola.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 18,
+    "nome": "Sulco da polpa de Graviola",
+    "descricao": "Suco natural de graviola.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 19,
+    "nome": "Sulco da polpa de Maracuja",
+    "descricao": "Suco natural de maracujá.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 20,
+    "nome": "Sulco de Laranja",
+    "descricao": "Suco natural de laranja.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 21,
+    "nome": "Sulco de Limao",
+    "descricao": "Suco natural de limão.",
+    "tipo": "Suco",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 22,
+    "nome": "Ice tea de Pessego",
+    "descricao": "Chá gelado sabor pêssego.",
+    "tipo": "Chá",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 23,
+    "nome": "Chá verde refrescante gelado",
+    "descricao": "Chá verde refrescante gelado.",
+    "tipo": "Chá",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+
+  {
+    "id": 24,
+    "nome": "Agua com Gas",
+    "descricao": "Água com gás, natural e refrescante.",
+    "tipo": "Água",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 25,
+    "nome": "Agua Mineral",
+    "descricao": "Água mineral natural.",
+    "tipo": "Água",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 26,
+    "nome": "Agua Tonica",
+    "descricao": "Água tônica refrescante.",
+    "tipo": "Água",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 27,
+    "nome": "H2o limao",
+    "descricao": "Água sabor limão.",
+    "tipo": "Água",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 28,
+    "nome": "H2o limoneto",
+    "descricao": "Água sabor limoneto.",
+    "tipo": "Água",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+
+  {
+    "id": 29,
+    "nome": "Antartica Latao",
+    "descricao": "Cerveja Antarctica Latao.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 30,
+    "nome": "Bhama Latao",
+    "descricao": "Cerveja Brahma Latao.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 31,
+    "nome": "Budwiser longNeck",
+    "descricao": "Cerveja Budweiser Long Neck.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 32,
+    "nome": "Cacildis longNeck",
+    "descricao": "Cerveja Cacildis Long Neck.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 33,
+    "nome": "Corona longNeck",
+    "descricao": "Cerveja Corona Long Neck.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 34,
+    "nome": "Heineken Latao",
+    "descricao": "Cerveja Heineken Latao.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 35,
+    "nome": "Heineken Long neck",
+    "descricao": "Cerveja Heineken Long Neck.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 36,
+    "nome": "Heineken Long neck zero",
+    "descricao": "Cerveja Heineken Long Neck Zero.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 37,
+    "nome": "Malzebir itaipava Longneck",
+    "descricao": "Cerveja Malzebir Itaipava Long Neck.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 38,
+    "nome": "Petra Premium longNeck",
+    "descricao": "Cerveja Petra Premium Long Neck.",
+    "tipo": "Cerveja",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+
+  {
+    "id": 39,
+    "nome": "Caipirinha de Maracuja",
+    "descricao": "Caipirinha sabor maracujá.",
+    "tipo": "Bebida alcoólica",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 40,
+    "nome": "Caaipirinha de Limao",
+    "descricao": "Caipirinha sabor limão.",
+    "tipo": "Bebida alcoólica",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 41,
+    "nome": "CaipVodka de Abacaxi",
+    "descricao": "Caipvodka sabor abacaxi.",
+    "tipo": "Bebida alcoólica",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 42,
+    "nome": "CaipVodka de Limao",
+    "descricao": "Caipvodka sabor limão.",
+    "tipo": "Bebida alcoólica",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 43,
+    "nome": "CaipVodka de Maracuja",
+    "descricao": "Caipvodka sabor maracujá.",
+    "tipo": "Bebida alcoólica",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 44,
+    "nome": "Gin tonica de Limao",
+    "descricao": "Gin tônica sabor limão.",
+    "tipo": "Bebida alcoólica",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 45,
+    "nome": "Gin tonica de Laranja",
+    "descricao": "Gin tônica sabor laranja.",
+    "tipo": "Bebida alcoólica",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 46,
+    "nome": "Gin Tonica de maracuja",
+    "descricao": "Gin tônica sabor maracujá.",
+    "tipo": "Bebida alcoólica",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  },
+  {
+    "id": 47,
+    "nome": "Red Bull",
+    "descricao": "Energético Red Bull.",
+    "tipo": "Energético",
+    "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
+  }
+]
