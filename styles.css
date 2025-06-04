@@ -1,3 +1,4 @@
+/* Estilos base */
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -13,22 +14,23 @@ body {
 }
 
 h1 {
-  font-size: 2.5rem;
-  margin-bottom: 30px;
+  font-size: 2rem;
+  margin-bottom: 20px;
 }
 
+/* Grid com duas colunas sempre */
 .menu {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 colunas sempre */
   gap: 20px;
+  padding: 0;
 }
 
+/* Cartões */
 .card {
   background-color: #fff;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  width: 260px;
   padding: 15px;
   text-align: left;
   transition: transform 0.3s ease;
@@ -38,8 +40,11 @@ h1 {
   transform: scale(1.03);
 }
 
+/* Imagens padronizadas */
 .card img {
   width: 100%;
+  height: 160px;           /* Altura fixa */
+  object-fit: cover;
   border-radius: 10px;
   margin-bottom: 15px;
 }
@@ -52,4 +57,30 @@ h1 {
 .card p {
   font-size: 1rem;
   color: #666;
+}
+
+
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #25D366;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+  transition: transform 0.3s ease;
+}
+
+.whatsapp-button:hover {
+  transform: scale(1.1);
+}
+
+.whatsapp-button img {
+  width: 30px;
+  height: 30px;
 }
