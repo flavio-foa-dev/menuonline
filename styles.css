@@ -6,11 +6,48 @@ body {
   color: #333;
 }
 
-.menu-container {
+.search-container {
   max-width: 900px;
   margin: 0 auto;
   padding: 20px;
   text-align: center;
+}
+
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.filter-buttons button {
+  flex: 0 0 auto;
+  padding: 8px 14px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #333; /* cinza escuro */
+  color: #f1f1f1;         /* texto claro */
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  min-width: 100px;
+}
+
+.filter-buttons button:hover {
+  background-color: #111; /* ainda mais escuro */
+  transform: translateY(-2px);
+}
+
+/* Responsividade */
+@media (min-width: 600px) {
+  .filter-buttons {
+    flex-wrap: nowrap;
+  }
+
+  .filter-buttons button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
 }
 
 h1 {

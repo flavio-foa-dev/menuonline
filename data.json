@@ -151,14 +151,14 @@
     "id": 22,
     "nome": "Ice tea de Pessego",
     "descricao": "Chá gelado sabor pêssego.",
-    "tipo": "Chá",
+    "tipo": "Diverso",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 23,
     "nome": "Chá verde refrescante gelado",
     "descricao": "Chá verde refrescante gelado.",
-    "tipo": "Chá",
+    "tipo": "Diverso",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
 
@@ -166,35 +166,35 @@
     "id": 24,
     "nome": "Agua com Gas",
     "descricao": "Água com gás, natural e refrescante.",
-    "tipo": "Água",
+    "tipo": "Diverso",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 25,
     "nome": "Agua Mineral",
     "descricao": "Água mineral natural.",
-    "tipo": "Água",
+    "tipo": "Diverso",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 26,
     "nome": "Agua Tonica",
     "descricao": "Água tônica refrescante.",
-    "tipo": "Água",
+    "tipo": "Diverso",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 27,
     "nome": "H2o limao",
     "descricao": "Água sabor limão.",
-    "tipo": "Água",
+    "tipo": "Diverso",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 28,
     "nome": "H2o limoneto",
     "descricao": "Água sabor limoneto.",
-    "tipo": "Água",
+    "tipo": "Diverso",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
 
@@ -273,63 +273,63 @@
     "id": 39,
     "nome": "Caipirinha de Maracuja",
     "descricao": "Caipirinha sabor maracujá.",
-    "tipo": "Bebida alcoólica",
+    "tipo": "Drink",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 40,
     "nome": "Caaipirinha de Limao",
     "descricao": "Caipirinha sabor limão.",
-    "tipo": "Bebida alcoólica",
+    "tipo": "Drink",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 41,
     "nome": "CaipVodka de Abacaxi",
     "descricao": "Caipvodka sabor abacaxi.",
-    "tipo": "Bebida alcoólica",
+    "tipo": "Drink",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 42,
     "nome": "CaipVodka de Limao",
     "descricao": "Caipvodka sabor limão.",
-    "tipo": "Bebida alcoólica",
+    "tipo": "Drink",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 43,
     "nome": "CaipVodka de Maracuja",
     "descricao": "Caipvodka sabor maracujá.",
-    "tipo": "Bebida alcoólica",
+    "tipo": "Drink",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 44,
     "nome": "Gin tonica de Limao",
     "descricao": "Gin tônica sabor limão.",
-    "tipo": "Bebida alcoólica",
+    "tipo": "Drink",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 45,
     "nome": "Gin tonica de Laranja",
     "descricao": "Gin tônica sabor laranja.",
-    "tipo": "Bebida alcoólica",
+    "tipo": "Drink",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 46,
     "nome": "Gin Tonica de maracuja",
     "descricao": "Gin tônica sabor maracujá.",
-    "tipo": "Bebida alcoólica",
+    "tipo": "Drink",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   },
   {
     "id": 47,
     "nome": "Red Bull",
     "descricao": "Energético Red Bull.",
-    "tipo": "Energético",
+    "tipo": "Diverso",
     "imagem": "https://imagensempng.com.br/wp-content/uploads/2022/01/Coca-Cola-Lata-Png.png"
   }
 ]
