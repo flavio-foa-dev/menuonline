@@ -3,7 +3,8 @@
   --amarelo-ouro: #FFD700;
   --marrom-rustico: #5C4033;
   --cor-clara: #FFFFFF;
-  --cor-fundo: #F9F9F9;
+  --cor-fundo:rgb(247, 222, 222);
+  /* --cor-fundo: #F9F9F9; */
   --cor-texto: #333;
 }
 
@@ -54,11 +55,11 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
-  padding: 30px 20px;
+  padding: 60px 20px;
   text-align: center;
   color: white;
   z-index: 10;
-  min-height: 220px;
+  min-height: 40px;
 }
 
 .topo-site::before {
@@ -161,7 +162,7 @@ h1 {
 /* Footer - Contato */
 .contatos-restaurantes {
   font-family: Arial, sans-serif;
-  background-color: var(--cor-clara);
+   background: linear-gradient(to right, #fff9c4, #ffe0e0); /* amarelo pastel para vermelho claro */
   color: var(--marrom-rustico);
   padding: 16px;
 }
@@ -181,7 +182,7 @@ h1 {
 }
 
 .contato h3 {
-  color: var(--amarelo-ouro);
+  color: var(--vermelho-coca);
   margin-bottom: 8px;
 }
 
