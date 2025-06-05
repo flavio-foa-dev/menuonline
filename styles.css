@@ -1,9 +1,18 @@
+:root {
+  --vermelho-coca: #E41C23;
+  --amarelo-ouro: #FFD700;
+  --marrom-rustico: #5C4033;
+  --cor-clara: #FFFFFF;
+  --cor-fundo: #F9F9F9;
+  --cor-texto: #333;
+}
+
 /* Estilos base */
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
+  background-color: var(--cor-fundo);
+  color: var(--cor-texto);
 }
 
 .search-container {
@@ -27,26 +36,53 @@ body {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  background-color: #333; /* cinza escuro */
-  color: #f1f1f1;         /* texto claro */
+  background-color: var(--vermelho-coca);
+  color: var(--cor-clara);
   transition: background-color 0.3s ease, transform 0.2s ease;
   min-width: 100px;
 }
 
 .filter-buttons button:hover {
-  background-color: #111; /* ainda mais escuro */
+  background-color: #b11419; /* tom mais escuro do vermelho Coca-Cola */
   transform: translateY(-2px);
 }
 
-/* Responsividade */
-@media (min-width: 600px) {
-  .filter-buttons {
-    flex-wrap: nowrap;
+/* Header */
+.topo-site {
+  background-image: url('public/header/logo.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  padding: 30px 20px;
+  text-align: center;
+  color: white;
+  z-index: 10;
+  min-height: 220px;
+}
+
+.topo-site::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 0;
+}
+
+.topo-site h1 {
+  position: relative;
+  font-size: 2.2rem;
+  z-index: 1;
+}
+
+/* Responsivo Header */
+@media (min-width: 768px) {
+  .topo-site {
+    padding: 140px 40px;
   }
 
-  .filter-buttons button {
-    font-size: 14px;
-    padding: 8px 16px;
+  .topo-site h1 {
+    font-size: 2.8rem;
   }
 }
 
@@ -55,17 +91,17 @@ h1 {
   margin-bottom: 20px;
 }
 
-/* Grid com duas colunas sempre */
+/* Grid fixo com duas colunas */
 .menu {
   display: grid;
-  grid-template-columns: repeat(2, 1fr); /* 2 colunas sempre */
+  grid-template-columns: repeat(2, 1fr);
   gap: 20px;
   padding: 0;
 }
 
 /* Cartões */
 .card {
-  background-color: #fff;
+  background-color: var(--cor-clara);
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   padding: 15px;
@@ -77,10 +113,9 @@ h1 {
   transform: scale(1.03);
 }
 
-/* Imagens padronizadas */
 .card img {
   width: 100%;
-  height: 160px;           /* Altura fixa */
+  height: 160px;
   object-fit: cover;
   border-radius: 10px;
   margin-bottom: 15px;
@@ -89,6 +124,7 @@ h1 {
 .card h2 {
   margin: 10px 0 5px;
   font-size: 1.3rem;
+  color: var(--marrom-rustico);
 }
 
 .card p {
@@ -96,7 +132,7 @@ h1 {
   color: #666;
 }
 
-
+/* Botão do WhatsApp */
 .whatsapp-button {
   position: fixed;
   bottom: 20px;
@@ -120,4 +156,62 @@ h1 {
 .whatsapp-button img {
   width: 30px;
   height: 30px;
+}
+
+/* Footer - Contato */
+.contatos-restaurantes {
+  font-family: Arial, sans-serif;
+  background-color: var(--cor-clara);
+  color: var(--marrom-rustico);
+  padding: 16px;
+}
+
+.contatos-restaurantes h2 {
+  text-align: center;
+  margin-bottom: 24px;
+  color: var(--vermelho-coca);
+}
+
+.contato {
+  background-color: var(--cor-clara);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.contato h3 {
+  color: var(--amarelo-ouro);
+  margin-bottom: 8px;
+}
+
+.contato a {
+  color: var(--marrom-rustico);
+  text-decoration: none;
+}
+
+.contato a:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 600px) {
+  .filter-buttons {
+    flex-wrap: nowrap;
+  }
+
+  .filter-buttons button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+}
+
+@media (min-width: 768px) {
+  .contatos-restaurantes {
+    padding: 32px;
+  }
+
+  .contatos-restaurantes .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
 }
