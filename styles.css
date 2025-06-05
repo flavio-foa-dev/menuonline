@@ -94,6 +94,7 @@ h1 {
 
 /* Grid fixo com duas colunas */
 .menu {
+  margin-top: 10px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 20px;
